@@ -1,0 +1,109 @@
+baseurl = "http://www.catail.page"
+title = "Catail. IT Consultancy"
+
+theme = "coder-portfolio"
+
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+disqusShortname = "yourdiscussshortname"
+
+publishDir = "docs"
+
+[params]
+    author = "Catail."
+    description = "Catail."
+    keywords = "developer"
+    info = "Catail IT. Consultansy"
+    avatarurl = "images/avatar.jpg"
+    footercontent = ""
+    fixedbarContent = ""
+    fixedbarContentAfter = ""
+
+    hideCredits = true
+    hideCopyright = true
+
+    # Bottom sns share
+    snsShare = false
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = true
+    enableFacebookShare = true
+    enableHatenaShare = true
+    enableLineShare = true
+    enableLinkedInShare = true
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/naro143/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 2
+    url = "https://twitter.com/naro143/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/naro143/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 4
+    url = "https://www.linkedin.com/in/naro143/"
+
+[languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "Catail. IT Consultancy"
+
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+            author = "Catail. IT Consultancy"
+            info = "Web/SaaS/Mobile software development services"
+            description = "Catail. IT Consultancy"
+            keywords = "developer"
+
+#        [languages.en.menu] # It is possible to change the menu too.
+
+#            [[languages.en.menu.main]]
+#                name = "About"
+#                weight = 1.0
+#                url = "about"
+
+#            [[languages.en.menu.main]]
+#                name = "Blog"
+#                weight = 2.0
+#                url = "posts"
+
+#            [[languages.en.menu.main]]
+#                name = "Projects"
+#                weight = 3
+#                url = "projects"
+#            [[languages.en.menu.main]]
+#                name = "Contact me"
+#                weight = 5
+#                url = "contact"
+
+
