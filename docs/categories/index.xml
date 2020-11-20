@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Catail. IT Consultancy</title>
-    <link>http://www.catail.page/categories/</link>
+    <link>https://www.catail.page/categories/</link>
     <description>Recent content in Categories on Catail. IT Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.catail.page/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.catail.page/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
