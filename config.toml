@@ -21,7 +21,7 @@ publishDir = "docs"
     description = "Catail."
     keywords = "developer"
     info = "Catail IT. Consultansy"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "/images/avatar.jpg"
     footercontent = ""
     fixedbarContent = ""
     fixedbarContentAfter = ""
@@ -39,7 +39,7 @@ publishDir = "docs"
     enableLineShare = true
     enableLinkedInShare = true
 
-    thumbnail = "images/tn.png"
+    thumbnail = "/images/tn.png"
 
     # Custom CSS
     custom_css = []
